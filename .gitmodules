@@ -1,0 +1,9 @@
+[submodule "visualize/LayersVisualizer/Easy3D"]
+	path = visualize/LayersVisualizer/Easy3D
+	url = https://github.com/LiangliangNan/Easy3D.git
+[submodule "visualize/LayersVisualizer"]
+	path = visualize/LayersVisualizer
+	url = https://github.com/marty1885/LayersVisualizer.git
+[submodule "visualize/resource"]
+	path = visualize/resource
+	url = https://github.com/alior101/resource.git
